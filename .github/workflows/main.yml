@@ -23,14 +23,9 @@ jobs:
           
           # 要同步的仓库列表（格式：文件夹名:仓库URL）
           repos=(
-            # "FM:https://github.com/qist/tvbox.git"
-            # "DBY:https://github.com/huangxinyueus/dby.git"
-            # "N3RD:https://github.com/n3rddd/N3RD.git"
             # 在这里添加更多仓库
-            #"XMB:https://github.com/xmbjm/svip.git"
-            #"BPT:https://github.com/BP3388/TVBOX.git"
-            "KWL:https://github.com/kimwang1978/collect-txt.git"
-            #"YWB:https://github.com/yuanwangokk-1/TV-BOX.git"
+            #"KWL:https://github.com/kimwang1978/collect-txt.git"
+            "MYTV:https://github.com/cyalias/mytvs-github.git"
           )
           
           for repo in "${repos[@]}"; do
