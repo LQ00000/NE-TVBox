@@ -34,7 +34,8 @@ jobs:
            # "JADR:https://github.com/jak0099/dr.git"
            # "NSFW:https://github.com/CatVodSpider-GM/SFW-Spiders.git"
            # "NSFW/DOC:https://github.com/CatVodSpider-GM/docs.git"
-           "NSFW/NSFW:https://github.com/CatVodSpider-GM/NSFW-Spiders.git"
+           # "NSFW/NSFW:https://github.com/CatVodSpider-GM/NSFW-Spiders.git"
+           "NSFW/my51228888:https://github.com/cm851228/my51228888.git"
 
           )
           
