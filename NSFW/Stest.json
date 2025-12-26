@@ -34,7 +34,7 @@
     "userScript": "./huochetaidu.user.js",
     "debug": false
   }
-}
+},
     {
       "key": "cheshi",
       "name": "测试| 聚合",
