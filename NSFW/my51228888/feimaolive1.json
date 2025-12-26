@@ -20,6 +20,21 @@
         
     },
 {
+        "name": "咪咕直播",
+        "url": "http://iptv.catvod.com/tv.m3u"
+        
+    },
+{
+        "name": "4GTV",
+        "url": "http://github.com/judy-gotv/iptv/raw/refs/heads/main/4gtv.m3u"
+        
+    },
+{
+        "name": "JackTV",
+        "url": "http://php.946985.filegear-sg.me/jackTV.m3u"
+        
+    },
+{
         "name": "全球直播",
         "url": "http://freetv.fun/test_channels_new.txt"
      
