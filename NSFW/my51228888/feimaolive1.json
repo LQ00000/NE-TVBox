@@ -20,8 +20,14 @@
         
     },
 {
-        "name": "咪咕直播",
+        "name": "咪咕央卫",
+        "ua": "okhttp",
         "url": "http://iptv.catvod.com/tv.m3u"
+        
+    },
+{
+        "name": "CatVodSmart",
+        "url": "http://live.catvod.com/tv.m3u"
         
     },
 {

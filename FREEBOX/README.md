@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/kknifer7/FreeBox?tab=readme-ov-file#%E4%BA%8C%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B">快速开始</a> |
-    <a href="https://github.com/kknifer7/FreeBox/wiki/%E9%A6%96%E9%A1%B5">常见疑难</a> |
+    <a href="https://github.com/kknifer7/FreeBox/wiki/%E5%B8%B8%E8%A7%81%E6%8A%A5%E9%94%99%E6%8C%87%E5%BC%95">播放失败、使用问题等看这里</a> |
     <a href="https://github.com/kknifer7/CatVodSpider-PC/wiki/Spider%E7%BC%96%E5%86%99%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97">Spider编写</a>
 </p>
 
@@ -195,7 +195,7 @@ FreeBox是一款集成了**影视播放**和**资源审计**功能的桌面端�
 | 播放器字幕支持                          | 高       | 支持在线搜索，支持多种字幕格式                                                            | ✅    |
 | 播放器弹幕支持                          | 高       | 支持导入ass格式弹幕                                                                | ✅    |
 | 外部播放器支持                          | 高       | 支持vlc和mpv播放器                                                               | ✅    |
-| 部分特殊源支持                          | 中       | 若有源无法观看，请反馈                                                                | ➖    |
+| JS源支持                            | 中       |                                                                            | ❌️   |
 | 字体切换                             | 中       | 支持一键切换界面字体                                                                 | ✅    |
 | 播放器空降                            | 中       | 支持自定义空降，跳过影视片头、片尾                                                          | ❌️   |
 | 更好的打包分发                          | 中       | 支持主流三端、双架构                                                                 | ✅    |
