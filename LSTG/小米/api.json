@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🌈热播┃公众号关注 >✨搬运分享屋✨",
+            "name": "🌈热播┃新年快乐！关注 >✨搬运分享屋✨",
             "type": 3,
             "quickSearch": 0,
             "filterable": 0,
@@ -29,7 +29,6 @@
             "filterable": 1,
             "ext": {
                 "site_urls": [
-                    "https://zhizhen1.top",
                     "https://mihdr.top",
                     "https://www.mihdr.top",
                     "https://www.miqk.cc",
@@ -51,18 +50,18 @@
             "key": "csp_Netfixtv2",
             "name": "📟二小┃网盘✨",
             "type": 3,
-            "changeable": "1",
+            "changeable": "0",
             "quickSearch": 1,
             "api": "csp_Duopan",
             "filterable": 1,
             "ext": {
                 "site_urls": [
+                    "https://zhizhen1.top",
                     "https://www.wexwp.cc",
                     "https://wexwp.cc",
                     "https://www.2xiaopan.fun/",
                     "https://2xiaopan.fun/",
-                    "https://www.2xiaoyun.fun/",
-                    "https://www.xhww.net/"
+                    "https://www.2xiaoyun.fun/"
                 ],
                 "url_key": "UC",
                 "token": "",
@@ -120,7 +119,7 @@
             "changeable": 1,
             "api": "./api/fox.js",
             "ext": {
-                "host": "http://103.109.20.117:550/"
+                "host": "https://www.70yyw.cc"
             }
         },
         {
@@ -222,6 +221,17 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "FNc7O3Sq/hxz7uCzbccPTwmKS9QhqbhDC5J/tBK99TXBAOG5IeeHo7xSXryC0vBoO5B1l2XmjJKdkeCZu5v1UxCZcIXe/1cmcBYcHAk746JE1FosonleIPqUFKByjhLwUU1doZS06jAVhSjz7X90y5GWmFqHmqD7ArxYzUSMQxyKerhNQ2ZWaJ2ka4jFMRPVVDQrBge5CgBGsw/HTb/+Q12qdcSTymLUN/cfwoUZ4uqBcSPbxSIrB4znIU2PcCtnX14vLtsWp1u/cbGV+kP8486YY8kGEs2qq+T34UaXBZf9Kk1t0Qt6yrj57yptwkeJXa2gK176ebs/D71tmX2ErBjije7pqwpRtEmeAmBWxohh9kLrGdh97ODRSzyNYE93Ai7nbGoskd/2r1Uu5NLCEqCIBBhH1qI6Jl/jWIVcngIDBm5KoTPs1ZxNWEqnOyP8nf8FuHZkRp/o26HL5LXb17UOkCmecqDKg3vjcnBKPNg="
+        },
+        {
+            "key": "仓鼠",
+            "name": "🐀仓鼠┃影视",
+            "type": 3,
+            "api": "csp_AppGetV2",
+            "timeout": 25,
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixDK7IwkMW3OXTtsJ0luMKeLysX2yB73bNx2WJ5U6d4MjrnIXJqUL+le03gZHBt9/GOsj2DDkI1uPNUodapLhhZPdtCC6eRuBkCLdC/zBe6JsFTpEXeu0A4pfSLg8mKFNMmUD43vd9RkQa+A2qvja6WMnDFvyZFx2PwIruSmvMw3m3T9ze9rboyLhbSGALzrdJsMr+YcJnPsY7wyqvmxNuq+3W3pJbRZzdQ2f17QGu6bR3X8XEM/7jBfzvgY7x13un5B9vPR9rWbNwhHNPhUBdgBFgpxKmANJoJvUJjCIiOL1qBLgxeEFkz4AW4fYsDVOhs1MFKg9pbzExJ5NKrIj5uZQ6piqHXeB6kzwwIgt0wc+yZ5UWqytxss9WA43G0QXbfEjs8qca18REiRCq6CvXbz6j5pKfOeGSMoODoQ1PX5VcXRA1RR6JlQuOt9cZpoXuOXq+sEfsbQf/0jPYZfNunVP9hzneeXD0mPwthDV6EgGqsezXDEKG3o38xFIjzMk4rXzlYWzf5w1VNm9V79p/j4"
         },
         {
             "key": "云速",
@@ -453,12 +463,11 @@
     ],
     "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
     "lives": [
-        {"name":"冰茶","type":0,"url":"https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true","playerType":2,"timeout":10,"ua":"bingcha/1.1(mianfeifenxiang)"},
-        {"name":"develop202","type":0,"url":"https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+        {"name":"冰茶","type":0,"url":"https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true","timeout":10,"ua":"bingcha/1.1(mianfeifenxiang)"},
         {"name":"范明明（需开启V6网络）","type":0,"url":"https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u","playerType":2},
-        {"name":"虎牙一起看","type":0,"url":"https://sub.ottiptv.cc/huyayqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
-        {"name":"斗鱼一起看","type":0,"url":"https://sub.ottiptv.cc/douyuyqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
-        {"name":"B站直播","type":0,"url":"https://sub.ottiptv.cc/bililive.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
-        {"name":"YY轮播","type":0,"url":"https://sub.ottiptv.cc/yylunbo.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"}
+        {"name":"虎牙一起看","type":0,"url":"https://sub.ottiptv.cc/huyayqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+        {"name":"斗鱼一起看","type":0,"url":"https://sub.ottiptv.cc/douyuyqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+        {"name":"B站直播","type":0,"url":"https://sub.ottiptv.cc/bililive.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
+        {"name":"YY轮播","type":0,"url":"https://sub.ottiptv.cc/yylunbo.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"}
     ]
 }

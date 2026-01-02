@@ -13,7 +13,8 @@ globalThis.verifyLogin = function (url) {
       log(`第${cnt + 1}次验证码识别结果:${code}`);
       html = post(submit_url, {
         headers: { Cookie: cookie },
-        body: 'type=search&verify=' + code,
+        //body: 'type=search&verify=' + code,
+        body: 'type=show&verify=' + code,
       });
       html = JSON.parse(html);
 
