@@ -15,7 +15,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260109】🐮",
+            "name": "🐮【更新日期:20260114】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -137,6 +137,14 @@
             "name": "💓‍盘他┃4K💓‍",
             "type": 3,
             "api": "csp_NewPanTaGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "WexHanXiaoQuan",
+            "name": "💥韩剧┃秒播💥",
+            "type": 3,
+            "api": "csp_WexHanXiaoQuanGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -333,10 +341,26 @@
             "changeable": 1
         },
         {
+            "key": "AnimeGiriGiri",
+            "name": "🤡小爱┃动漫🤡",
+            "type": 3,
+            "api": "csp_AnimeGiriGiriGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "AnimeXiFan",
             "name": "🤡稀饭┃动漫🤡",
             "type": 3,
             "api": "csp_AnimeXiFanGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "AnimeNeko",
+            "name": "🤡耐克┃动漫🤡",
+            "type": 3,
+            "api": "csp_AnimeNekoGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -355,6 +379,54 @@
             "api": "csp_BookShiJieGuard",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "ChildrenDuoDuo",
+            "name": "👼多多┃儿歌👼",
+            "type": 3,
+            "api": "csp_ChildrenDuoDuoGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 2
+            }
+        },
+        {
+            "key": "ChildrenBaoBao",
+            "name": "👼宝宝┃儿歌👼",
+            "type": 3,
+            "api": "csp_ChildrenBaoBaoGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 2
+            }
+        },
+        {
+            "key": "ChildrenBeiWa",
+            "name": "👼贝贝┃儿歌👼",
+            "type": 3,
+            "api": "csp_ChildrenBeiWaGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 2
+            }
+        },
+        {
+            "key": "ChildrenTuTu",
+            "name": "👼兔兔┃儿歌👼",
+            "type": 3,
+            "api": "csp_ChildrenTuTuGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 2
+            }
         },
         {
             "key": "WexTangDou",
@@ -489,6 +561,17 @@
             "name": "🌐瓜子┃体育🌐",
             "type": 3,
             "api": "csp_SportGuaZiGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "SportKanQiuTong",
+            "name": "🌐球通┃体育🌐",
+            "type": 3,
+            "api": "csp_SportKanQiuTongGuard",
             "searchable": 1,
             "changeable": 0,
             "style": {
@@ -639,6 +722,14 @@
             "name": "🎠找盘┃综合🎠",
             "type": 3,
             "api": "csp_SoZhaoPanSoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_PushGuard",
             "searchable": 1,
             "changeable": 0
         }

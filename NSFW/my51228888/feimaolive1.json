@@ -32,6 +32,14 @@
      
         },
 {
+            "name": "CatSmartTV",
+            "type": 0,
+            "url": "http://live.catvod.com/tv.m3u",
+            "ua": "catvod.com",
+            "timeout": 30
+     
+        },
+{
             "name": "咪咕直播",
             "type": 0,
             "url": "http://iptv.catvod.com/tv.m3u",
@@ -47,14 +55,6 @@
       "timeout": 30,
       "playerType": 1
     },
-{
-            "name": "BXTV",
-            "type": 0,
-            "url": "http://bxtv.3a.ink/live.m3u",
-            "ua": "okhttp",
-            "timeout": 30
-     
-        },
 {
             "name": "风云TV",
             "type": 0,
