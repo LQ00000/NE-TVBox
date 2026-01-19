@@ -612,6 +612,74 @@
             
         },
 {
+            "key": "中国直播",
+            "name": "中国📺直播",
+            "type": 3,
+            "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar;md5;76630164b5442be73bc3277927729996",
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "playerType": 1,
+            "timeout": 30,
+            "ext": {
+                "site": "http://110.81.153.7:1963/get.txt",
+                "dataKey": "k7L9mQ2xR4pW8n88",
+                "dataIv": "k7L9mQ2xR4pW8n88",
+                "version": "2"
+            }
+        },        
+{
+            "key": "曾美食聚合",
+            "name": "美食聚合(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "https://catbox.n13.club/t9/bili.php?id=美食"
+            
+        },
+{
+            "key": "曾PY聚合",
+            "name": "PY聚合(T4)",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/py.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1
+       
+        },        
+{
+            "key": "曾采集聚合",
+            "name": "采集聚合(T4)",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+            "playerType": 2,
+            "searchable": 1,
+            "changeable": 1
+            
+        },
+{
+            "key": "曾JS聚合",
+            "name": "JS聚合(T4)",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/js.php",
+            "playerType": 2,
+            "searchable": 1,
+            "changeable": 1
+            
+        },
+{
+            "key": "曾PHP聚合",
+            "name": "PHP聚合(T4)",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/php.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1
+        },
+{
             "key": "外来媳妇本地郎推送",
             "name": "外来媳妇本地郎推送",
             "type": 3,
@@ -1461,116 +1529,6 @@
       "name": "爱看机器人庫(T4)",
       "type": 4
      },
-{
-            "key": "t1_dian_ying_tian_tang_02",
-            "name": "🍎 电影天堂 (T1)",
-            "type": 1,
-            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "playUrl": "json:https://py.doube.eu.org/parse_dytt?url=",
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "国产剧",
-                "香港剧",
-                "韩国剧",
-                "欧美剧",
-                "记录片",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "泰国剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "伦理片",
-                "短剧",
-                "动画片"
-            ]
-        },
-        {
-            "key": "py_小苹果",
-            "name": "🍎 小苹果 (T4)",
-            "type": 4,
-            "api": ".https://py.doube.eu.org/static/v2/spider?site=9037cfae7c64405111e0e364401adb60",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "py_官方采集789",
-            "name": "🍎 官方采集789 (T4)",
-            "type": 4,
-            "api": ".https://py.doube.eu.org/static/v2/spider?site=006849a2c19a6be413be5017be468c63",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "py_动漫巴士",
-            "name": "🍎 动漫巴士 (T4)",
-            "type": 4,
-            "api": ".https://py.doube.eu.org/static/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "py_欧乐影院",
-            "name": "🍎 欧乐影院 (T4)",
-            "type": 4,
-            "api": ".https://py.doube.eu.org/static/v2/spider?site=8a0bbe9e97c4429a517cd2ece3f6772b",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "py_小红影视",
-            "name": "🍎 小红影视 (T4)",
-            "type": 4,
-            "api": ".https://py.doube.eu.org/static/v2/spider?site=01d44f1ecd9383f273c0c24989ad87c3",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "py_低端影视",
-            "name": "🍎 低端影视 (T4)",
-            "type": 4,
-            "api": ".https://py.doube.eu.org/static/v2/spider?site=a4108870c8bac363add59bf0101e2884",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "py_新韩剧网",
-            "name": "🍎 新韩剧网 (T4)",
-            "type": 4,
-            "api": ".https://py.doube.eu.org/static/v2/spider?site=2a7cc0edf96108c9d57420ff57c654c6",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
 {
             "key": "高版哔哩",
             "name": "哔哩(FM)",
@@ -3136,25 +3094,6 @@
                 "海外动画",
                 "体育赛事"
             ]
-        },
-{
-			"key":"Youtube",
-			"name":"Youtube",
-			"type":3,
-			"api": "csp_Youtube",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"playerType": 2,
-			"timeout": 60,
-			"ext":{
-			"json":"./yjson/youtube.json",
-            "type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-	        "keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐"
-			
-		},
-		"jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg2025.jar"
-      
         },
 {
             "key": "JAV转点播",
