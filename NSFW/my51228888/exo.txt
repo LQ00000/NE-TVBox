@@ -1,5 +1,6 @@
 油管新闻,#genre#
-中文国际台,https://www.youtube.com/live/7j92Myu2wzg?si=u8XfOs_87U9j-vph
+国际中文(亚洲),https://www.youtube.com/live/7j92Myu2wzg?si=vg14KqagkVucCi3o
+国际中文(美洲),https://www.youtube.com/live/f6Kq93wnaZ8?si=5DQPPEo1eraRHGuD
 凤凰卫视资讯台,https://www.youtube.com/live/fN9uYWCjQaw?si=C6BSbnxn3P2l656n
 8world,https://www.youtube.com/live/RvSOIM620bA?si=obbxhYNHc7Q98v3X
 Entertainment,https://www.youtube.com/live/ipqTkEH3mhE?si=0eg2o-dtmEdFAvSh
@@ -17,12 +18,49 @@ TVBS新闻台,https://www.youtube.com/live/m_dhMSvUCIc?si=6yZnLm3dbG9oCoCL
 鏡新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
 东森新闻台,https://www.youtube.com/live/E0zhe2gkXBs?si=hoofeYsZHkYhTobI
 东森财经台,https://www.youtube.com/live/AEBeWMM1atA?si=ga4zTNb5Uwsa5aiX
+57怪奇物語,https://www.youtube.com/live/k0uJVhYX12Y?si=Ku_wFpO4AGPv58v9
+Eight无限线上收听,https://www.youtube.com/live/T3LXcjcR3bk?si=9sYjCrewu9VBhbez
+
+
+
+Bean&Wild,#genre#
+MrBean live,https://www.youtube.com/live/dmSxr1TD8GQ?si=PbMgggpUMhwSm--9
+MrBean ALL,https://www.youtube.com/live/lldsi8ItNaI?si=NeeVssmp0vtYFxT1
+MrBean Deutschland,https://www.youtube.com/live/CwsGobXOYnM?si=JxOAdqXoSrW9kaDG
+Geographic,https://www.youtube.com/live/MiQe9ob9aDc?si=vIdSN85RV4U-vMok
+Wild,https://www.youtube.com/live/THooYCltViI?si=RPKxzvwQo6L5glww
+Wildlife&nature,https://www.youtube.com/live/daqB3i9WYIY?si=R-ecqEE_0ONOsyxd
+Lovenature,https://www.youtube.com/live/1_AE8pTtSOk?si=UjSSq4zrolCKUe6D
+
+
+
+
+少兒频道,#genre#
+迪士尼Kids,https://www.youtube.com/watch?v=1mLPTfLwm-M
+Tom&Jerry,https://www.youtube.com/live/rEKifG2XUZg?feature=shared
+瑪莎與熊 Masha and The Bear CH,https://www.youtube.com/watch?v=E_E80UC2gek
+貝樂虎-兒歌童謠-卡通動畫-經典故事,https://www.youtube.com/watch?v=YDtNnMzKuVc
+寶貝多米-兒歌童謠-卡通動畫-經典故事,https://www.youtube.com/watch?v=ATiJ3ihQuP8
+DuckTales,https://www.youtube.com/live/XD50huu0M24?feature=shared
+Thomas,https://www.youtube.com/live/rJU6YjyUbbE?feature=shared
+Marvel's Avengers,https://www.youtube.com/live/13GZtHqYrLY?feature=shared
+Spider-Man,https://www.youtube.com/live/2PzfL3zrE-o?feature=shared
+Woody,https://www.youtube.com/live/jEdJ14wW6Kk?feature=shared
+Animal time,https://www.youtube.com/live/dwbgawuNhCU?feature=shared
+
+
+
+TVB港台,#genre#
+TVB翡翠劇集台,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
+TVB1,https://amg01868-amg01868c4-tvbanywhere-us-4492.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvb1-tvbanywhereus/playlist.m3u8
+TVB無綫新聞台,https://amg01868-amg01868c2-tvbanywhere-us-4490.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
+TVB越南台,https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+
 
 
 
 马新频道,#genre#
 DRAMA HOTPOT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
-Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
 CH8,http://cdn6.163189.xyz/163189/ch8
 CH5,http://cdn6.163189.xyz/163189/ch5
 CHU,http://cdn6.163189.xyz/163189/chu
@@ -59,6 +97,61 @@ MANTAP,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatai
 SENTRAL,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 DRAMA HEBAT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 MY CERIA,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
+
+
+
+
+MY2(rtm),#genre#
+八度空间,https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+TV1,https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+TV2,https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+TV3,https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+Okey Tv,https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+TV6,https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+DidikTv KPM,https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+8TV,https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+TV9,https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+BERITA RTM,https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+SUKAN RTM,https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+TV Ikim,https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+Astro Awani,https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+TV1,https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+TV2,https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+TV3,https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+Okey Tv,https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+TV6,https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+DidikTv KPM,https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+8TV,https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+TV9,https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+BERITA RTM,https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+SUKAN RTM,https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+TV Ikim,https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+Astro Awani,https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+RTM TV1 ,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+RTM TV2 ,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+RTM Okey ,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+Sukan RTM ,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+Berita RTM ,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+RTM TV6 ,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+RTM 1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
+RTM 2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=2
+RTM Okey,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=3
+Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
+Berita RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=5
+RTM 6,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/index.m3u8?id=6
+RTM Parlimen Dewan Rakyat,https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/index.m3u8?id=7
+RTM Parlimen Dewan Negara,https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
+Dewan Rakyat,https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+DewanNegara,https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+Dewan Rakyat,https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+DewanNegara,https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+Bernama Tv,https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
+TVS,https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
+Bernama Tv,https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
+TVS,https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
+
+
 
 
 
